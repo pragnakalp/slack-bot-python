@@ -38,5 +38,5 @@ pip install -r requirements.txt
 Then Run Python flask App.
 
 ```sh
-python app.py
+python slackbot.py
 ```
